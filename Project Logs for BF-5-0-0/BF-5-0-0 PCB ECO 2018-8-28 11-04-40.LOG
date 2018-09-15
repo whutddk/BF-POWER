@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VOUT1-1V0 Pin=R40-1
+Removed Pin From Net: NetName=NetQ6_1 Pin=R40-2
+Change Component Footprint: Designator=R19 Old Footprint=0402_R New Footprint=0805_R
+Change Component Footprint: Designator=R40 Old Footprint=0402_R New Footprint=0805_R
+Change component parameters: Designator = "R19"; Footprint = "0805_R"; UniqueID = "\MWCHBXQC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18305.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C17617"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40"; Footprint = "0805_R"; UniqueID = "\SSWVQNJK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18305.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C17617"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ6_1 Pin=R40-1
+Added Pin To Net: NetName=VOUT1-1V0 Pin=R40-2
