@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=DRV8711 Member=J2
+Removed Member From Class: ClassName=DRV8711 Member=J3
+Removed Member From Class: ClassName=DRV8711 Member=J4
+Removed Member From Class: ClassName=DRV8711 Member=J5
+Added Component: Designator=PIN*1(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*2(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*3(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*4(PIN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AOUT1 Pin=PIN*1-1
+Added Pin To Net: NetName=AOUT2 Pin=PIN*2-1
+Added Pin To Net: NetName=BOUT1 Pin=PIN*3-1
+Added Pin To Net: NetName=BOUT2 Pin=PIN*4-1
+Added Member To Class: ClassName=DRV8711 Member=Component PIN*1 PIN
+Added Member To Class: ClassName=DRV8711 Member=Component PIN*2 PIN
+Added Member To Class: ClassName=DRV8711 Member=Component PIN*3 PIN
+Added Member To Class: ClassName=DRV8711 Member=Component PIN*4 PIN
