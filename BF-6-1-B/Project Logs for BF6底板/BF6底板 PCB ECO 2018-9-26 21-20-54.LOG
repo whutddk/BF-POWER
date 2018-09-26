@@ -1,0 +1,236 @@
+Removed Pin From Net: NetName=SLEEPn Pin=P1-3
+Removed Pin From Net: NetName=RESET Pin=P1-4
+Removed Pin From Net: NetName=SCLK Pin=P1-11
+Removed Pin From Net: NetName=SDATI Pin=P1-12
+Removed Pin From Net: NetName=SDATO Pin=P1-14
+Removed Pin From Net: NetName=VCC Pin=T*1-1
+Removed Pin From Net: NetName=EGND Pin=T*1-2
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P1 NewDesignator=P6
+Change Component Designator: OldDesignator=P1 NewDesignator=P10
+Change Component Designator: OldDesignator=P1 NewDesignator=P13
+Change Component Designator: OldDesignator=P1 NewDesignator=P14
+Change Component Designator: OldDesignator=P1 NewDesignator=P15
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=P6 NewDesignator=P7
+Change Component Designator: OldDesignator=P7 NewDesignator=P8
+Change Component Designator: OldDesignator=P8 NewDesignator=P9
+Change Component Designator: OldDesignator=P9 NewDesignator=P11
+Change Component Designator: OldDesignator=P10 NewDesignator=P12
+Change Component Designator: OldDesignator=PIN* NewDesignator=PIN*1
+Change Component Designator: OldDesignator=PIN* NewDesignator=PIN*2
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=T*1 NewDesignator=T*2
+Change Component Designator: OldDesignator=T*1 NewDesignator=T*3
+Change Component Designator: OldDesignator=T*1 NewDesignator=T*4
+Change Component Designator: OldDesignator=T*1 NewDesignator=T*5
+Change Component Designator: OldDesignator=T*1 NewDesignator=T*6
+Change Component Designator: OldDesignator=U11 NewDesignator=U13
+Change Component Designator: OldDesignator=U12 NewDesignator=U11
+Change Component Designator: OldDesignator=U13 NewDesignator=U12
+Change Component Designator: OldDesignator=U14 NewDesignator=U16
+Change Component Designator: OldDesignator=U15 NewDesignator=U14
+Change Component Designator: OldDesignator=U16 NewDesignator=U15
+Change Component Designator: OldDesignator=U23 NewDesignator=U25
+Change Component Designator: OldDesignator=U24 NewDesignator=U23
+Change Component Designator: OldDesignator=U25 NewDesignator=U24
+Change Component Designator: OldDesignator=U27 NewDesignator=U28
+Added Component: Designator=PIN*5(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*6(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*7(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*8(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*9(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*10(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*11(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*12(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*13(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*14(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*15(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*16(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*17(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*18(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*19(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*20(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*21(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*22(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*23(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*24(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*25(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*26(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*27(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*28(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*29(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*30(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*31(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*32(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*33(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*34(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*35(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*36(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*37(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*38(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*39(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*40(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*41(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*42(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*43(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*44(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*45(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*46(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*47(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*48(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*49(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PIN*50(PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "¹©Ó¦ÉÌÁ´½Ó"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_21629.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C20917"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "¹©Ó¦ÉÌÁ´½Ó"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_21629.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C20917"; VariantName = "[No Variations]"
+Added Component: Designator=U27(SMD-8_6.3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "¹©Ó¦ÉÌÁ´½Ó"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_17178.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-8_6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C16496"; VariantName = "[No Variations]"
+Added Component: Designator=U29(SMD-8_6.3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "¹©Ó¦ÉÌÁ´½Ó"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_17178.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-8_6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C16496"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetU11_1 New Net Name=NetU13_1
+Change Net Name : Old Net Name=NetU11_3 New Net Name=NetU13_3
+Change Net Name : Old Net Name=NetU11_5 New Net Name=NetU13_5
+Change Net Name : Old Net Name=NetU11_9 New Net Name=NetU13_9
+Change Net Name : Old Net Name=NetU11_11 New Net Name=NetU13_11
+Change Net Name : Old Net Name=NetU11_13 New Net Name=NetU13_13
+Change Net Name : Old Net Name=NetU23_3 New Net Name=NetU25_3
+Change Net Name : Old Net Name=NetU23_6 New Net Name=NetU25_6
+Change Net Name : Old Net Name=NetU23_8 New Net Name=NetU25_8
+Change Net Name : Old Net Name=NetU23_11 New Net Name=NetU25_11
+Change Net Name : Old Net Name=NetU27_5 New Net Name=NetU28_5
+Added Member To Class: ClassName=BF6µ×°å Member=Component P11 Header 6X2
+Added Member To Class: ClassName=BF6µ×°å Member=Component P12 Header 6X2
+Added Member To Class: ClassName=BF6µ×°å Member=Component P13 Header 10X2
+Added Member To Class: ClassName=BF6µ×°å Member=Component P14 Header 10X2
+Added Member To Class: ClassName=BF6µ×°å Member=Component P15 Header 10X2
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*2 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*3 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*4 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*5 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*6 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*7 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*8 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*9 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*10 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*11 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*12 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*13 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*14 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*15 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*16 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*17 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*18 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*19 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*20 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*21 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*22 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*23 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*24 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*25 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*26 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*27 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*28 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*29 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*30 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*31 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*32 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*33 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*34 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*35 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*36 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*37 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*38 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*39 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*40 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*41 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*42 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*43 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*44 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*45 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*46 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*47 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*48 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*49 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component PIN*50 PIN
+Added Member To Class: ClassName=BF6µ×°å Member=Component Q1 AO3400A NµÀ¹µ X0YV1T SOT-23
+Added Member To Class: ClassName=BF6µ×°å Member=Component Q2 AO3400A NµÀ¹µ X0YV1T SOT-23
+Added Member To Class: ClassName=BF6µ×°å Member=Component T*2 TÍ·
+Added Member To Class: ClassName=BF6µ×°å Member=Component T*3 TÍ·
+Added Member To Class: ClassName=BF6µ×°å Member=Component T*4 TÍ·
+Added Member To Class: ClassName=BF6µ×°å Member=Component T*5 TÍ·
+Added Member To Class: ClassName=BF6µ×°å Member=Component T*6 TÍ·
+Added Member To Class: ClassName=BF6µ×°å Member=Component U28 74HC08D
+Added Member To Class: ClassName=BF6µ×°å Member=Component U29 6N137S(TA)
