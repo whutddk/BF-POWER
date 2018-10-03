@@ -1,0 +1,157 @@
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VM Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VM Pin=C2-2
+Added Pin To Net: NetName=CP2 Pin=C3-1
+Added Pin To Net: NetName=CP1 Pin=C3-2
+Added Pin To Net: NetName=VM Pin=C4-1
+Added Pin To Net: NetName=VCP Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=V5 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VINT Pin=C6-2
+Added Pin To Net: NetName=BEMF Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VM Pin=C8-2
+Added Pin To Net: NetName=3.3V Pin=D1-A
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=3.3V Pin=D2-A
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=3.3V Pin=J1-1
+Added Pin To Net: NetName=nSLEEP Pin=J1-6
+Added Pin To Net: NetName=SCLK Pin=J1-7
+Added Pin To Net: NetName=RESET Pin=J1-8
+Added Pin To Net: NetName=STEP/AIN1 Pin=J1-9
+Added Pin To Net: NetName=DIR/AIN2 Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=nSTALL Pin=J2-2
+Added Pin To Net: NetName=nFAULT Pin=J2-3
+Added Pin To Net: NetName=SDATI Pin=J2-6
+Added Pin To Net: NetName=SDATO Pin=J2-7
+Added Pin To Net: NetName=BIN1 Pin=J2-8
+Added Pin To Net: NetName=BIN2 Pin=J2-9
+Added Pin To Net: NetName=SCS Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=VM Pin=J5-2
+Added Pin To Net: NetName=BOUT2 Pin=J6-1
+Added Pin To Net: NetName=BOUT1 Pin=J6-2
+Added Pin To Net: NetName=AOUT2 Pin=J6-3
+Added Pin To Net: NetName=AOUT1 Pin=J6-4
+Added Pin To Net: NetName=AISENP Pin=NT1-1
+Added Pin To Net: NetName=GND_A Pin=NT1-2
+Added Pin To Net: NetName=BISENP Pin=NT2-1
+Added Pin To Net: NetName=GND_B Pin=NT2-2
+Added Pin To Net: NetName=AISENN Pin=NT3-1
+Added Pin To Net: NetName=GND Pin=NT3-2
+Added Pin To Net: NetName=BISENN Pin=NT4-1
+Added Pin To Net: NetName=GND Pin=NT4-2
+Added Pin To Net: NetName=AOUT1 Pin=Q1-1
+Added Pin To Net: NetName=A1HS Pin=Q1-2
+Added Pin To Net: NetName=GND_A Pin=Q1-3
+Added Pin To Net: NetName=A1LS Pin=Q1-4
+Added Pin To Net: NetName=AOUT1 Pin=Q1-5
+Added Pin To Net: NetName=AOUT1 Pin=Q1-6
+Added Pin To Net: NetName=VM Pin=Q1-7
+Added Pin To Net: NetName=VM Pin=Q1-8
+Added Pin To Net: NetName=GND_A Pin=Q2-1
+Added Pin To Net: NetName=A2LS Pin=Q2-2
+Added Pin To Net: NetName=AOUT2 Pin=Q2-3
+Added Pin To Net: NetName=A2HS Pin=Q2-4
+Added Pin To Net: NetName=VM Pin=Q2-5
+Added Pin To Net: NetName=VM Pin=Q2-6
+Added Pin To Net: NetName=AOUT2 Pin=Q2-7
+Added Pin To Net: NetName=AOUT2 Pin=Q2-8
+Added Pin To Net: NetName=BOUT1 Pin=Q3-1
+Added Pin To Net: NetName=B1HS Pin=Q3-2
+Added Pin To Net: NetName=GND_B Pin=Q3-3
+Added Pin To Net: NetName=B1LS Pin=Q3-4
+Added Pin To Net: NetName=BOUT1 Pin=Q3-5
+Added Pin To Net: NetName=BOUT1 Pin=Q3-6
+Added Pin To Net: NetName=VM Pin=Q3-7
+Added Pin To Net: NetName=VM Pin=Q3-8
+Added Pin To Net: NetName=GND_B Pin=Q4-1
+Added Pin To Net: NetName=B2LS Pin=Q4-2
+Added Pin To Net: NetName=BOUT2 Pin=Q4-3
+Added Pin To Net: NetName=B2HS Pin=Q4-4
+Added Pin To Net: NetName=VM Pin=Q4-5
+Added Pin To Net: NetName=VM Pin=Q4-6
+Added Pin To Net: NetName=BOUT2 Pin=Q4-7
+Added Pin To Net: NetName=BOUT2 Pin=Q4-8
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND_A Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND_B Pin=R2-2
+Added Pin To Net: NetName=3.3V Pin=R3-1
+Added Pin To Net: NetName=SDATO Pin=R3-2
+Added Pin To Net: NetName=NetD2_K Pin=R4-1
+Added Pin To Net: NetName=nFAULT Pin=R4-2
+Added Pin To Net: NetName=NetD1_K Pin=R5-1
+Added Pin To Net: NetName=nSTALL Pin=R5-2
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=CP1 Pin=U1-1
+Added Pin To Net: NetName=CP2 Pin=U1-2
+Added Pin To Net: NetName=VCP Pin=U1-3
+Added Pin To Net: NetName=VM Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=V5 Pin=U1-6
+Added Pin To Net: NetName=VINT Pin=U1-7
+Added Pin To Net: NetName=nSLEEP Pin=U1-8
+Added Pin To Net: NetName=RESET Pin=U1-9
+Added Pin To Net: NetName=STEP/AIN1 Pin=U1-10
+Added Pin To Net: NetName=DIR/AIN2 Pin=U1-11
+Added Pin To Net: NetName=BIN1 Pin=U1-12
+Added Pin To Net: NetName=BIN2 Pin=U1-13
+Added Pin To Net: NetName=SCLK Pin=U1-14
+Added Pin To Net: NetName=SDATI Pin=U1-15
+Added Pin To Net: NetName=SCS Pin=U1-16
+Added Pin To Net: NetName=SDATO Pin=U1-17
+Added Pin To Net: NetName=nFAULT Pin=U1-18
+Added Pin To Net: NetName=nSTALL Pin=U1-19
+Added Pin To Net: NetName=BEMF Pin=U1-20
+Added Pin To Net: NetName=BOUT2 Pin=U1-21
+Added Pin To Net: NetName=B2HS Pin=U1-22
+Added Pin To Net: NetName=B2LS Pin=U1-23
+Added Pin To Net: NetName=BISENN Pin=U1-24
+Added Pin To Net: NetName=BISENP Pin=U1-25
+Added Pin To Net: NetName=B1LS Pin=U1-26
+Added Pin To Net: NetName=B1HS Pin=U1-27
+Added Pin To Net: NetName=BOUT1 Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=AOUT2 Pin=U1-30
+Added Pin To Net: NetName=A2HS Pin=U1-31
+Added Pin To Net: NetName=A2LS Pin=U1-32
+Added Pin To Net: NetName=AISENN Pin=U1-33
+Added Pin To Net: NetName=AISENP Pin=U1-34
+Added Pin To Net: NetName=A1LS Pin=U1-35
+Added Pin To Net: NetName=A1HS Pin=U1-36
+Added Pin To Net: NetName=AOUT1 Pin=U1-37
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component C1 Cap
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component C2 10nF (103) 10% 50V
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component C3 100nF (104) 10% 50V
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component C4 1uF (105) 10% 50V
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component C5 100nF (104) 10% 50V
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component C6 1uF (105) 10% 50V
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component C7 1nF (102) 10% 50V
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component C8 1uF (105) 10% 50V
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component D1 ºìµÆ 0805
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component D2 ºìµÆ 0805
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component J1 CRD-081413-B-T
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component J2 CRD-081413-B-T
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component J5 OSTTA024163
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component J6 OSTTA044163
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component NT1 Net-Tie
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component NT2 Net-Tie
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component NT3 Net-Tie
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component NT4 Net-Tie
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component Q1 CSD88537ND
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component Q2 CSD88537ND
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component Q3 CSD88537ND
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component Q4 CSD88537ND
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component R1 CRA2512-FZ-R050ELF
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component R2 CRA2512-FZ-R050ELF
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component R3 3.3K¦¸ (3301) ¡À1%
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component R4 330¦¸ (3300) ¡À1%
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component R5 330¦¸ (3300) ¡À1%
+Added Member To Class: ClassName=BOOST-DRV8711 Member=Component U1 DRV8711DCP
