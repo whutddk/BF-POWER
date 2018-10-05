@@ -1,0 +1,108 @@
+Removed Member From Class: ClassName=BASE-B Member=PIN*1
+Removed Member From Class: ClassName=BASE-B Member=PIN*2
+Removed Member From Class: ClassName=BASE-B Member=PIN*3
+Removed Member From Class: ClassName=BASE-B Member=PIN*4
+Removed Member From Class: ClassName=BASE-B Member=PIN*5
+Removed Member From Class: ClassName=BASE-B Member=PIN*6
+Removed Member From Class: ClassName=BASE-B Member=PIN*8
+Removed Member From Class: ClassName=BASE-B Member=PIN*9
+Removed Member From Class: ClassName=BASE-B Member=PIN*10
+Removed Member From Class: ClassName=BASE-B Member=PIN*11
+Removed Member From Class: ClassName=BASE-B Member=PIN*12
+Removed Member From Class: ClassName=BASE-B Member=PIN*13
+Removed Member From Class: ClassName=BASE-B Member=PIN*15
+Removed Member From Class: ClassName=BASE-B Member=PIN*16
+Removed Member From Class: ClassName=BASE-B Member=PIN*17
+Removed Member From Class: ClassName=BASE-B Member=PIN*18
+Removed Member From Class: ClassName=BASE-B Member=PIN*19
+Removed Member From Class: ClassName=BASE-B Member=PIN*20
+Removed Member From Class: ClassName=BASE-B Member=PIN*21
+Removed Member From Class: ClassName=BASE-B Member=PIN*22
+Removed Member From Class: ClassName=BASE-B Member=PIN*23
+Removed Member From Class: ClassName=BASE-B Member=PIN*24
+Removed Member From Class: ClassName=BASE-B Member=PIN*25
+Removed Member From Class: ClassName=BASE-B Member=PIN*26
+Added Component: Designator=L1_STEPPER1(INDP175172X70M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uH"; VariantName = "[No Variations]"
+Added Component: Designator=L1_STEPPER2(INDP175172X70M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uH"; VariantName = "[No Variations]"
+Added Component: Designator=L1_STEPPER3(INDP175172X70M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uH"; VariantName = "[No Variations]"
+Added Component: Designator=L1_STEPPER4(INDP175172X70M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uH"; VariantName = "[No Variations]"
+Added Component: Designator=L1_STEPPER5(INDP175172X70M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uH"; VariantName = "[No Variations]"
+Added Component: Designator=L1_STEPPER6(INDP175172X70M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_STEPPER1_2 Pin=L1_STEPPER1-1
+Added Pin To Net: NetName=VM_STEPPER1 Pin=L1_STEPPER1-2
+Added Pin To Net: NetName=NetC1_STEPPER2_2 Pin=L1_STEPPER2-1
+Added Pin To Net: NetName=VM_STEPPER2 Pin=L1_STEPPER2-2
+Added Pin To Net: NetName=NetC1_STEPPER3_2 Pin=L1_STEPPER3-1
+Added Pin To Net: NetName=VM_STEPPER3 Pin=L1_STEPPER3-2
+Added Pin To Net: NetName=NetC1_STEPPER4_2 Pin=L1_STEPPER4-1
+Added Pin To Net: NetName=VM_STEPPER4 Pin=L1_STEPPER4-2
+Added Pin To Net: NetName=NetC1_STEPPER5_2 Pin=L1_STEPPER5-1
+Added Pin To Net: NetName=VM_STEPPER5 Pin=L1_STEPPER5-2
+Added Pin To Net: NetName=NetC1_STEPPER6_2 Pin=L1_STEPPER6-1
+Added Pin To Net: NetName=VM_STEPPER6 Pin=L1_STEPPER6-2
+Added Member To Class: ClassName=STEPPER1 Member=Component L1_STEPPER1 (L1) Inductor
+Added Member To Class: ClassName=STEPPER2 Member=Component L1_STEPPER2 (L1) Inductor
+Added Member To Class: ClassName=STEPPER3 Member=Component L1_STEPPER3 (L1) Inductor
+Added Member To Class: ClassName=STEPPER4 Member=Component L1_STEPPER4 (L1) Inductor
+Added Member To Class: ClassName=STEPPER5 Member=Component L1_STEPPER5 (L1) Inductor
+Added Member To Class: ClassName=STEPPER6 Member=Component L1_STEPPER6 (L1) Inductor
