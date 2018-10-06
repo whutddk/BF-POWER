@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SAFTY6 Pin=P1-2
+Removed Pin From Net: NetName=SAFTY5 Pin=P1-4
+Removed Pin From Net: NetName=SAFTY4 Pin=P1-6
+Removed Pin From Net: NetName=SAFTY3 Pin=P1-8
+Removed Pin From Net: NetName=SAFTY2 Pin=P1-10
+Removed Pin From Net: NetName=SAFTY1 Pin=P1-12
+Added Pin To Net: NetName=SAFTY1 Pin=P1-29
+Added Pin To Net: NetName=SAFTY2 Pin=P1-31
+Added Pin To Net: NetName=SAFTY3 Pin=P1-33
+Added Pin To Net: NetName=SAFTY4 Pin=P1-35
+Added Pin To Net: NetName=SAFTY5 Pin=P1-37
+Added Pin To Net: NetName=SAFTY6 Pin=P1-39

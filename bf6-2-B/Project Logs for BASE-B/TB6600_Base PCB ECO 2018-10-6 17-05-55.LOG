@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=3V3 Pin=P1-1
+Removed Pin From Net: NetName=3V3 Pin=P1-17
+Removed Pin From Net: NetName=3V3 Pin=P2-11
+Removed Pin From Net: NetName=3V3 Pin=P2-12
+Removed Pin From Net: NetName=3V3 Pin=P3-11
+Removed Pin From Net: NetName=3V3 Pin=P3-12
+Removed Pin From Net: NetName=E\N\A\ Pin=R11_STEPPER1-1
+Removed Pin From Net: NetName=3V3 Pin=R11_STEPPER1-2
+Removed Pin From Net: NetName=E\N\A\ Pin=R11_STEPPER2-1
+Removed Pin From Net: NetName=3V3 Pin=R11_STEPPER2-2
+Removed Pin From Net: NetName=E\N\A\ Pin=R11_STEPPER3-1
+Removed Pin From Net: NetName=3V3 Pin=R11_STEPPER3-2
+Removed Pin From Net: NetName=E\N\A\ Pin=R11_STEPPER4-1
+Removed Pin From Net: NetName=3V3 Pin=R11_STEPPER4-2
+Removed Pin From Net: NetName=E\N\A\ Pin=R11_STEPPER5-1
+Removed Pin From Net: NetName=3V3 Pin=R11_STEPPER5-2
+Removed Pin From Net: NetName=E\N\A\ Pin=R11_STEPPER6-1
+Removed Pin From Net: NetName=3V3 Pin=R11_STEPPER6-2
+Removed Member From Class: ClassName=STEPPER1 Member=R11_STEPPER1
+Removed Member From Class: ClassName=STEPPER2 Member=R11_STEPPER2
+Removed Member From Class: ClassName=STEPPER3 Member=R11_STEPPER3
+Removed Member From Class: ClassName=STEPPER4 Member=R11_STEPPER4
+Removed Member From Class: ClassName=STEPPER5 Member=R11_STEPPER5
+Removed Member From Class: ClassName=STEPPER6 Member=R11_STEPPER6
+Added Component: Designator=R11(1206_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18590.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17902"; VariantName = "[No Variations]"
+Added Component: Designator=R12(1206_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18590.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17902"; VariantName = "[No Variations]"
+Added Component: Designator=R13(1206_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18590.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17902"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=E\N\A\ Pin=R11-1
+Added Pin To Net: NetName=E\N\A\ Pin=R12-1
+Added Pin To Net: NetName=3V3 Pin=R12-2
+Added Pin To Net: NetName=E\N\A\ Pin=R13-1
+Change Net Name : Old Net Name=3V3 New Net Name=3V3_2
+Added Pin To Net: NetName=3V3_1 Pin=P1-1
+Added Pin To Net: NetName=3V3_1 Pin=R13-2
+Added Net: Name=3V3_1
+Added Pin To Net: NetName=3V3_3 Pin=P2-11
+Added Pin To Net: NetName=3V3_3 Pin=P2-12
+Added Pin To Net: NetName=3V3_3 Pin=P3-11
+Added Pin To Net: NetName=3V3_3 Pin=P3-12
+Added Pin To Net: NetName=3V3_3 Pin=R11-2
+Added Net: Name=3V3_3
+Added Pin To Net: NetName=3V3 Pin=P1-17
+Added Net: Name=3V3
+Added Member To Class: ClassName=BASE-B Member=Component R11 10KΩ (1002) ±1%
+Added Member To Class: ClassName=BASE-B Member=Component R12 10KΩ (1002) ±1%
+Added Member To Class: ClassName=BASE-B Member=Component R13 10KΩ (1002) ±1%

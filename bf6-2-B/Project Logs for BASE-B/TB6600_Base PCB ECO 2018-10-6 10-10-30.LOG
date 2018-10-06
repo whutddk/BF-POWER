@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=SAFTY1 Pin=U1_STEPPER1-5
+Added Pin To Net: NetName=SAFTY2 Pin=U1_STEPPER2-5
+Added Pin To Net: NetName=SAFTY3 Pin=U1_STEPPER3-5
+Added Pin To Net: NetName=SAFTY4 Pin=U1_STEPPER4-5
+Added Pin To Net: NetName=SAFTY5 Pin=U1_STEPPER5-5
+Added Pin To Net: NetName=SAFTY6 Pin=U1_STEPPER6-5
+Added Member To Class: ClassName=SAFTY[1..6] Member=Element[1]: SAFTY
+Added Member To Class: ClassName=SAFTY[1..6] Member=Element[2]: SAFTY

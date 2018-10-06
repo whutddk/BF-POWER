@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SAFTY5 Pin=P1-18
+Removed Pin From Net: NetName=SAFTY6 Pin=P1-24
+Added Pin To Net: NetName=SAFTY6 Pin=P1-2
+Added Pin To Net: NetName=SAFTY5 Pin=P1-4
+Change Net Name : Old Net Name=SAFTY1 New Net Name=SAFTY4
+Change Net Name : Old Net Name=SAFTY2 New Net Name=SAFTY3
+Added Pin To Net: NetName=SAFTY1 Pin=P1-12
+Added Net: Name=SAFTY1
+Added Pin To Net: NetName=SAFTY2 Pin=P1-10
+Added Net: Name=SAFTY2

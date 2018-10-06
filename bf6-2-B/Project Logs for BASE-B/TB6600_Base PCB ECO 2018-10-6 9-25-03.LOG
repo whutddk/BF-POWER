@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=NetP10_STEPPER1_1 Pin=P10_STEPPER2-1
+Removed Pin From Net: NetName=NetP10_STEPPER1_3 Pin=P10_STEPPER2-3
+Removed Pin From Net: NetName=NetP10_STEPPER1_5 Pin=P10_STEPPER2-5
+Removed Pin From Net: NetName=NetP10_STEPPER1_1 Pin=P10_STEPPER3-1
+Removed Pin From Net: NetName=NetP10_STEPPER1_3 Pin=P10_STEPPER3-3
+Removed Pin From Net: NetName=NetP10_STEPPER1_5 Pin=P10_STEPPER3-5
+Removed Pin From Net: NetName=NetP10_STEPPER1_1 Pin=P10_STEPPER4-1
+Removed Pin From Net: NetName=NetP10_STEPPER1_3 Pin=P10_STEPPER4-3
+Removed Pin From Net: NetName=NetP10_STEPPER1_5 Pin=P10_STEPPER4-5
+Removed Pin From Net: NetName=NetP10_STEPPER1_1 Pin=P10_STEPPER5-1
+Removed Pin From Net: NetName=NetP10_STEPPER1_3 Pin=P10_STEPPER5-3
+Removed Pin From Net: NetName=NetP10_STEPPER1_5 Pin=P10_STEPPER5-5
+Removed Pin From Net: NetName=NetP10_STEPPER1_1 Pin=P10_STEPPER6-1
+Removed Pin From Net: NetName=NetP10_STEPPER1_3 Pin=P10_STEPPER6-3
+Removed Pin From Net: NetName=NetP10_STEPPER1_5 Pin=P10_STEPPER6-5
+Removed Pin From Net: NetName=NetU1_STEPPER1_5 Pin=U1_STEPPER2-5
+Removed Pin From Net: NetName=NetU1_STEPPER1_5 Pin=U1_STEPPER3-5
+Removed Pin From Net: NetName=NetU1_STEPPER1_5 Pin=U1_STEPPER4-5
+Removed Pin From Net: NetName=NetU1_STEPPER1_5 Pin=U1_STEPPER5-5
+Removed Pin From Net: NetName=NetU1_STEPPER1_5 Pin=U1_STEPPER6-5
+Removed Member From Class: ClassName=BASE-B Member=PIN*1
+Removed Member From Class: ClassName=BASE-B Member=PIN*2
+Removed Member From Class: ClassName=BASE-B Member=PIN*3
+Removed Member From Class: ClassName=BASE-B Member=PIN*4
+Removed Member From Class: ClassName=BASE-B Member=PIN*5
+Removed Member From Class: ClassName=BASE-B Member=PIN*6
+Removed Member From Class: ClassName=BASE-B Member=PIN*8
+Removed Member From Class: ClassName=BASE-B Member=PIN*9
+Removed Member From Class: ClassName=BASE-B Member=PIN*10
+Removed Member From Class: ClassName=BASE-B Member=PIN*11
+Removed Member From Class: ClassName=BASE-B Member=PIN*12
+Removed Member From Class: ClassName=BASE-B Member=PIN*13
+Removed Member From Class: ClassName=BASE-B Member=PIN*15
+Removed Member From Class: ClassName=BASE-B Member=PIN*16
+Removed Member From Class: ClassName=BASE-B Member=PIN*17
+Removed Member From Class: ClassName=BASE-B Member=PIN*18
+Removed Member From Class: ClassName=BASE-B Member=PIN*19
+Removed Member From Class: ClassName=BASE-B Member=PIN*20
+Removed Member From Class: ClassName=BASE-B Member=PIN*21
+Removed Member From Class: ClassName=BASE-B Member=PIN*22
+Removed Member From Class: ClassName=BASE-B Member=PIN*23
+Removed Member From Class: ClassName=BASE-B Member=PIN*24
+Removed Member From Class: ClassName=BASE-B Member=PIN*25
+Removed Member From Class: ClassName=BASE-B Member=PIN*26
+Added Pin To Net: NetName=NetP10_STEPPER2_1 Pin=P10_STEPPER2-1
+Added Net: Name=NetP10_STEPPER2_1
+Added Pin To Net: NetName=NetP10_STEPPER2_3 Pin=P10_STEPPER2-3
+Added Net: Name=NetP10_STEPPER2_3
+Added Pin To Net: NetName=NetP10_STEPPER2_5 Pin=P10_STEPPER2-5
+Added Net: Name=NetP10_STEPPER2_5
+Added Pin To Net: NetName=NetP10_STEPPER3_1 Pin=P10_STEPPER3-1
+Added Net: Name=NetP10_STEPPER3_1
+Added Pin To Net: NetName=NetP10_STEPPER3_3 Pin=P10_STEPPER3-3
+Added Net: Name=NetP10_STEPPER3_3
+Added Pin To Net: NetName=NetP10_STEPPER3_5 Pin=P10_STEPPER3-5
+Added Net: Name=NetP10_STEPPER3_5
+Added Pin To Net: NetName=NetP10_STEPPER4_1 Pin=P10_STEPPER4-1
+Added Net: Name=NetP10_STEPPER4_1
+Added Pin To Net: NetName=NetP10_STEPPER4_3 Pin=P10_STEPPER4-3
+Added Net: Name=NetP10_STEPPER4_3
+Added Pin To Net: NetName=NetP10_STEPPER4_5 Pin=P10_STEPPER4-5
+Added Net: Name=NetP10_STEPPER4_5
+Added Pin To Net: NetName=NetP10_STEPPER5_1 Pin=P10_STEPPER5-1
+Added Net: Name=NetP10_STEPPER5_1
+Added Pin To Net: NetName=NetP10_STEPPER5_3 Pin=P10_STEPPER5-3
+Added Net: Name=NetP10_STEPPER5_3
+Added Pin To Net: NetName=NetP10_STEPPER5_5 Pin=P10_STEPPER5-5
+Added Net: Name=NetP10_STEPPER5_5
+Added Pin To Net: NetName=NetP10_STEPPER6_1 Pin=P10_STEPPER6-1
+Added Net: Name=NetP10_STEPPER6_1
+Added Pin To Net: NetName=NetP10_STEPPER6_3 Pin=P10_STEPPER6-3
+Added Net: Name=NetP10_STEPPER6_3
+Added Pin To Net: NetName=NetP10_STEPPER6_5 Pin=P10_STEPPER6-5
+Added Net: Name=NetP10_STEPPER6_5
+Added Pin To Net: NetName=NetU1_STEPPER2_5 Pin=U1_STEPPER2-5
+Added Net: Name=NetU1_STEPPER2_5
+Added Pin To Net: NetName=NetU1_STEPPER3_5 Pin=U1_STEPPER3-5
+Added Net: Name=NetU1_STEPPER3_5
+Added Pin To Net: NetName=NetU1_STEPPER4_5 Pin=U1_STEPPER4-5
+Added Net: Name=NetU1_STEPPER4_5
+Added Pin To Net: NetName=NetU1_STEPPER5_5 Pin=U1_STEPPER5-5
+Added Net: Name=NetU1_STEPPER5_5
+Added Pin To Net: NetName=NetU1_STEPPER6_5 Pin=U1_STEPPER6-5
+Added Net: Name=NetU1_STEPPER6_5

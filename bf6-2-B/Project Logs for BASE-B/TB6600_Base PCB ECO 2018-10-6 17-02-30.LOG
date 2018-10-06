@@ -1,0 +1,66 @@
+Added Component: Designator=R11_STEPPER1(1206_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18588.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17900"; VariantName = "[No Variations]"
+Added Component: Designator=R11_STEPPER2(1206_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18588.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17900"; VariantName = "[No Variations]"
+Added Component: Designator=R11_STEPPER3(1206_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18588.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17900"; VariantName = "[No Variations]"
+Added Component: Designator=R11_STEPPER4(1206_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18588.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17900"; VariantName = "[No Variations]"
+Added Component: Designator=R11_STEPPER5(1206_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18588.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17900"; VariantName = "[No Variations]"
+Added Component: Designator=R11_STEPPER6(1206_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18588.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17900"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=E\N\A\ Pin=P10_STEPPER1-5
+Added Pin To Net: NetName=E\N\A\ Pin=P10_STEPPER2-5
+Added Pin To Net: NetName=E\N\A\ Pin=P10_STEPPER3-5
+Added Pin To Net: NetName=E\N\A\ Pin=P10_STEPPER4-5
+Added Pin To Net: NetName=E\N\A\ Pin=P10_STEPPER5-5
+Added Pin To Net: NetName=E\N\A\ Pin=P10_STEPPER6-5
+Added Pin To Net: NetName=E\N\A\ Pin=R11_STEPPER1-1
+Added Pin To Net: NetName=3V3 Pin=R11_STEPPER1-2
+Added Pin To Net: NetName=E\N\A\ Pin=R11_STEPPER2-1
+Added Pin To Net: NetName=3V3 Pin=R11_STEPPER2-2
+Added Pin To Net: NetName=E\N\A\ Pin=R11_STEPPER3-1
+Added Pin To Net: NetName=3V3 Pin=R11_STEPPER3-2
+Added Pin To Net: NetName=E\N\A\ Pin=R11_STEPPER4-1
+Added Pin To Net: NetName=3V3 Pin=R11_STEPPER4-2
+Added Pin To Net: NetName=E\N\A\ Pin=R11_STEPPER5-1
+Added Pin To Net: NetName=3V3 Pin=R11_STEPPER5-2
+Added Pin To Net: NetName=E\N\A\ Pin=R11_STEPPER6-1
+Added Pin To Net: NetName=3V3 Pin=R11_STEPPER6-2
+Added Member To Class: ClassName=STEPPER1 Member=Component R11_STEPPER1 (R11) 100KΩ (1003) ±1%
+Added Member To Class: ClassName=STEPPER2 Member=Component R11_STEPPER2 (R11) 100KΩ (1003) ±1%
+Added Member To Class: ClassName=STEPPER3 Member=Component R11_STEPPER3 (R11) 100KΩ (1003) ±1%
+Added Member To Class: ClassName=STEPPER4 Member=Component R11_STEPPER4 (R11) 100KΩ (1003) ±1%
+Added Member To Class: ClassName=STEPPER5 Member=Component R11_STEPPER5 (R11) 100KΩ (1003) ±1%
+Added Member To Class: ClassName=STEPPER6 Member=Component R11_STEPPER6 (R11) 100KΩ (1003) ±1%

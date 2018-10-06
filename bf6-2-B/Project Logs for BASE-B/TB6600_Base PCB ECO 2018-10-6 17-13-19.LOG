@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=PULSE1 Pin=P10_STEPPER1-1
+Added Pin To Net: NetName=PULSE2 Pin=P10_STEPPER2-1
+Added Pin To Net: NetName=PULSE3 Pin=P10_STEPPER3-1
+Added Pin To Net: NetName=PULSE4 Pin=P10_STEPPER4-1
+Added Pin To Net: NetName=PULSE5 Pin=P10_STEPPER5-1
+Added Pin To Net: NetName=PULSE6 Pin=P10_STEPPER6-1
+Change Net Name : Old Net Name=PULSE1 New Net Name=PLUSE1
+Change Net Name : Old Net Name=PULSE2 New Net Name=PLUSE2
+Change Net Name : Old Net Name=PULSE3 New Net Name=PLUSE3
+Change Net Name : Old Net Name=PULSE4 New Net Name=PLUSE4
+Change Net Name : Old Net Name=PULSE5 New Net Name=PLUSE5
+Change Net Name : Old Net Name=PULSE6 New Net Name=PLUSE6
