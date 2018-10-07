@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : Q:\MAS2\PCB\BF-POWER\bf6-2-B\TB6600_Base.PcbDoc
 Date     : 2018/10/7
-Time     : 11:27:58
+Time     : 11:36:21
 
-Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,134 +15,134 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=6mil) (Max=80mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=0.152mm) (Max=2.032mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
-   Violation between Hole Size Constraint: (150mil > 100mil) Pad Free-1(1015mil,6550mil) on Multi-Layer Actual Slot Hole Width = 150mil
-   Violation between Hole Size Constraint: (150mil > 100mil) Pad Free-1(10607.362mil,6550mil) on Multi-Layer Actual Slot Hole Width = 150mil
-   Violation between Hole Size Constraint: (150mil > 100mil) Pad Free-1(2933.472mil,6550mil) on Multi-Layer Actual Slot Hole Width = 150mil
-   Violation between Hole Size Constraint: (150mil > 100mil) Pad Free-1(4851.945mil,6550mil) on Multi-Layer Actual Slot Hole Width = 150mil
-   Violation between Hole Size Constraint: (150mil > 100mil) Pad Free-1(6770.417mil,6550mil) on Multi-Layer Actual Slot Hole Width = 150mil
-   Violation between Hole Size Constraint: (150mil > 100mil) Pad Free-1(8688.89mil,6550mil) on Multi-Layer Actual Slot Hole Width = 150mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad Free-10(4920mil,330mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad Free-11(4920mil,5330mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad Free-12(10920mil,5330mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad Free-13(10920mil,330mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad Free-2(11614.173mil,11614.173mil) on Multi-Layer Actual Hole Size = 118.11mil
-   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad Free-3(196.85mil,11614.173mil) on Multi-Layer Actual Hole Size = 118.11mil
-   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad Free-4(196.85mil,196.85mil) on Multi-Layer Actual Hole Size = 118.11mil
-   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad Free-5(11614.173mil,196.85mil) on Multi-Layer Actual Hole Size = 118.11mil
-   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad Free-6(5656mil,4940mil) on Multi-Layer Actual Hole Size = 118.11mil
-   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad Free-7(5656mil,3010.866mil) on Multi-Layer Actual Hole Size = 118.11mil
-   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad Free-8(7939.465mil,4940mil) on Multi-Layer Actual Hole Size = 118.11mil
-   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad Free-9(7939.465mil,3010.866mil) on Multi-Layer Actual Hole Size = 118.11mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad J1_STEPPER1-9(845mil,11547.323mil) on Multi-Layer Actual Slot Hole Height = 157.48mil
-   Violation between Hole Size Constraint: (314.961mil > 100mil) Pad J1_STEPPER1-9(845mil,11547.323mil) on Multi-Layer Actual Slot Hole Width = 314.961mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad J1_STEPPER1-9(846.811mil,7997.323mil) on Multi-Layer Actual Slot Hole Height = 157.48mil
-   Violation between Hole Size Constraint: (314.961mil > 100mil) Pad J1_STEPPER1-9(846.811mil,7997.323mil) on Multi-Layer Actual Slot Hole Width = 314.961mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad J1_STEPPER2-9(2738mil,11547.323mil) on Multi-Layer Actual Slot Hole Height = 157.48mil
-   Violation between Hole Size Constraint: (314.961mil > 100mil) Pad J1_STEPPER2-9(2738mil,11547.323mil) on Multi-Layer Actual Slot Hole Width = 314.961mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad J1_STEPPER2-9(2739.811mil,7997.323mil) on Multi-Layer Actual Slot Hole Height = 157.48mil
-   Violation between Hole Size Constraint: (314.961mil > 100mil) Pad J1_STEPPER2-9(2739.811mil,7997.323mil) on Multi-Layer Actual Slot Hole Width = 314.961mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad J1_STEPPER3-9(4631mil,11547.323mil) on Multi-Layer Actual Slot Hole Height = 157.48mil
-   Violation between Hole Size Constraint: (314.961mil > 100mil) Pad J1_STEPPER3-9(4631mil,11547.323mil) on Multi-Layer Actual Slot Hole Width = 314.961mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad J1_STEPPER3-9(4632.811mil,7997.323mil) on Multi-Layer Actual Slot Hole Height = 157.48mil
-   Violation between Hole Size Constraint: (314.961mil > 100mil) Pad J1_STEPPER3-9(4632.811mil,7997.323mil) on Multi-Layer Actual Slot Hole Width = 314.961mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad J1_STEPPER4-9(6524mil,11547.323mil) on Multi-Layer Actual Slot Hole Height = 157.48mil
-   Violation between Hole Size Constraint: (314.961mil > 100mil) Pad J1_STEPPER4-9(6524mil,11547.323mil) on Multi-Layer Actual Slot Hole Width = 314.961mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad J1_STEPPER4-9(6525.811mil,7997.323mil) on Multi-Layer Actual Slot Hole Height = 157.48mil
-   Violation between Hole Size Constraint: (314.961mil > 100mil) Pad J1_STEPPER4-9(6525.811mil,7997.323mil) on Multi-Layer Actual Slot Hole Width = 314.961mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad J1_STEPPER5-9(8417mil,11547.323mil) on Multi-Layer Actual Slot Hole Height = 157.48mil
-   Violation between Hole Size Constraint: (314.961mil > 100mil) Pad J1_STEPPER5-9(8417mil,11547.323mil) on Multi-Layer Actual Slot Hole Width = 314.961mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad J1_STEPPER5-9(8418.811mil,7997.323mil) on Multi-Layer Actual Slot Hole Height = 157.48mil
-   Violation between Hole Size Constraint: (314.961mil > 100mil) Pad J1_STEPPER5-9(8418.811mil,7997.323mil) on Multi-Layer Actual Slot Hole Width = 314.961mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad J1_STEPPER6-9(10310mil,11547.323mil) on Multi-Layer Actual Slot Hole Height = 157.48mil
-   Violation between Hole Size Constraint: (314.961mil > 100mil) Pad J1_STEPPER6-9(10310mil,11547.323mil) on Multi-Layer Actual Slot Hole Width = 314.961mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad J1_STEPPER6-9(10311.811mil,7997.323mil) on Multi-Layer Actual Slot Hole Height = 157.48mil
-   Violation between Hole Size Constraint: (314.961mil > 100mil) Pad J1_STEPPER6-9(10311.811mil,7997.323mil) on Multi-Layer Actual Slot Hole Width = 314.961mil
-   Violation between Hole Size Constraint: (196.85mil > 100mil) Pad PIN*14-1(680mil,4930mil) on Multi-Layer Actual Hole Size = 196.85mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad PIN*27_STEPPER1-1(1985mil,8917.677mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad PIN*27_STEPPER2-1(3890mil,8917.677mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad PIN*27_STEPPER3-1(5795mil,8917.677mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad PIN*27_STEPPER4-1(7700mil,8917.677mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad PIN*27_STEPPER5-1(9605mil,8917.677mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad PIN*27_STEPPER6-1(11510mil,8917.677mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad PIN*28_STEPPER1-1(1985mil,8400mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad PIN*28_STEPPER2-1(3890mil,8400mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad PIN*28_STEPPER3-1(5795mil,8400mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad PIN*28_STEPPER4-1(7700mil,8400mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad PIN*28_STEPPER5-1(9605mil,8400mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad PIN*28_STEPPER6-1(11510mil,8400mil) on Multi-Layer Actual Hole Size = 157.48mil
-   Violation between Hole Size Constraint: (196.85mil > 100mil) Pad PIN*7-1(680mil,5395mil) on Multi-Layer Actual Hole Size = 196.85mil
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3.81mm > 2.54mm) Pad Free-1(123.239mm,166.37mm) on Multi-Layer Actual Slot Hole Width = 3.81mm
+   Violation between Hole Size Constraint: (3.81mm > 2.54mm) Pad Free-1(171.969mm,166.37mm) on Multi-Layer Actual Slot Hole Width = 3.81mm
+   Violation between Hole Size Constraint: (3.81mm > 2.54mm) Pad Free-1(220.698mm,166.37mm) on Multi-Layer Actual Slot Hole Width = 3.81mm
+   Violation between Hole Size Constraint: (3.81mm > 2.54mm) Pad Free-1(25.781mm,166.37mm) on Multi-Layer Actual Slot Hole Width = 3.81mm
+   Violation between Hole Size Constraint: (3.81mm > 2.54mm) Pad Free-1(269.427mm,166.37mm) on Multi-Layer Actual Slot Hole Width = 3.81mm
+   Violation between Hole Size Constraint: (3.81mm > 2.54mm) Pad Free-1(74.51mm,166.37mm) on Multi-Layer Actual Slot Hole Width = 3.81mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad Free-10(124.968mm,8.382mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad Free-11(124.968mm,135.382mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad Free-12(277.368mm,135.382mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad Free-13(277.368mm,8.382mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-2(295mm,295mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-3(5mm,295mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-4(5mm,5mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-5(295mm,5mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-6(143.662mm,125.476mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-7(143.662mm,76.476mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-8(201.662mm,125.476mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-9(201.662mm,76.476mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad J1_STEPPER1-9(21.463mm,293.302mm) on Multi-Layer Actual Slot Hole Height = 4mm
+   Violation between Hole Size Constraint: (8mm > 2.54mm) Pad J1_STEPPER1-9(21.463mm,293.302mm) on Multi-Layer Actual Slot Hole Width = 8mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad J1_STEPPER1-9(21.509mm,203.132mm) on Multi-Layer Actual Slot Hole Height = 4mm
+   Violation between Hole Size Constraint: (8mm > 2.54mm) Pad J1_STEPPER1-9(21.509mm,203.132mm) on Multi-Layer Actual Slot Hole Width = 8mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad J1_STEPPER2-9(69.545mm,293.302mm) on Multi-Layer Actual Slot Hole Height = 4mm
+   Violation between Hole Size Constraint: (8mm > 2.54mm) Pad J1_STEPPER2-9(69.545mm,293.302mm) on Multi-Layer Actual Slot Hole Width = 8mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad J1_STEPPER2-9(69.591mm,203.132mm) on Multi-Layer Actual Slot Hole Height = 4mm
+   Violation between Hole Size Constraint: (8mm > 2.54mm) Pad J1_STEPPER2-9(69.591mm,203.132mm) on Multi-Layer Actual Slot Hole Width = 8mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad J1_STEPPER3-9(117.627mm,293.302mm) on Multi-Layer Actual Slot Hole Height = 4mm
+   Violation between Hole Size Constraint: (8mm > 2.54mm) Pad J1_STEPPER3-9(117.627mm,293.302mm) on Multi-Layer Actual Slot Hole Width = 8mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad J1_STEPPER3-9(117.673mm,203.132mm) on Multi-Layer Actual Slot Hole Height = 4mm
+   Violation between Hole Size Constraint: (8mm > 2.54mm) Pad J1_STEPPER3-9(117.673mm,203.132mm) on Multi-Layer Actual Slot Hole Width = 8mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad J1_STEPPER4-9(165.71mm,293.302mm) on Multi-Layer Actual Slot Hole Height = 4mm
+   Violation between Hole Size Constraint: (8mm > 2.54mm) Pad J1_STEPPER4-9(165.71mm,293.302mm) on Multi-Layer Actual Slot Hole Width = 8mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad J1_STEPPER4-9(165.756mm,203.132mm) on Multi-Layer Actual Slot Hole Height = 4mm
+   Violation between Hole Size Constraint: (8mm > 2.54mm) Pad J1_STEPPER4-9(165.756mm,203.132mm) on Multi-Layer Actual Slot Hole Width = 8mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad J1_STEPPER5-9(213.792mm,293.302mm) on Multi-Layer Actual Slot Hole Height = 4mm
+   Violation between Hole Size Constraint: (8mm > 2.54mm) Pad J1_STEPPER5-9(213.792mm,293.302mm) on Multi-Layer Actual Slot Hole Width = 8mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad J1_STEPPER5-9(213.838mm,203.132mm) on Multi-Layer Actual Slot Hole Height = 4mm
+   Violation between Hole Size Constraint: (8mm > 2.54mm) Pad J1_STEPPER5-9(213.838mm,203.132mm) on Multi-Layer Actual Slot Hole Width = 8mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad J1_STEPPER6-9(261.874mm,293.302mm) on Multi-Layer Actual Slot Hole Height = 4mm
+   Violation between Hole Size Constraint: (8mm > 2.54mm) Pad J1_STEPPER6-9(261.874mm,293.302mm) on Multi-Layer Actual Slot Hole Width = 8mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad J1_STEPPER6-9(261.92mm,203.132mm) on Multi-Layer Actual Slot Hole Height = 4mm
+   Violation between Hole Size Constraint: (8mm > 2.54mm) Pad J1_STEPPER6-9(261.92mm,203.132mm) on Multi-Layer Actual Slot Hole Width = 8mm
+   Violation between Hole Size Constraint: (5mm > 2.54mm) Pad PIN*14-1(17.272mm,125.222mm) on Multi-Layer Actual Hole Size = 5mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad PIN*27_STEPPER1-1(50.419mm,226.509mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad PIN*27_STEPPER2-1(98.806mm,226.509mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad PIN*27_STEPPER3-1(147.193mm,226.509mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad PIN*27_STEPPER4-1(195.58mm,226.509mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad PIN*27_STEPPER5-1(243.967mm,226.509mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad PIN*27_STEPPER6-1(292.354mm,226.509mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad PIN*28_STEPPER1-1(50.419mm,213.36mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad PIN*28_STEPPER2-1(98.806mm,213.36mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad PIN*28_STEPPER3-1(147.193mm,213.36mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad PIN*28_STEPPER4-1(195.58mm,213.36mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad PIN*28_STEPPER5-1(243.967mm,213.36mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (4mm > 2.54mm) Pad PIN*28_STEPPER6-1(292.354mm,213.36mm) on Multi-Layer Actual Hole Size = 4mm
+   Violation between Hole Size Constraint: (5mm > 2.54mm) Pad PIN*7-1(17.272mm,137.033mm) on Multi-Layer Actual Hole Size = 5mm
 Rule Violations :56
 
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (7.913mil < 10mil) Between Via (10690mil,6575mil) from Top Layer to Bottom Layer And Via (10709.724mil,6575mil) from Top Layer to Bottom Layer 
-   Violation between Hole To Hole Clearance Constraint: (8.465mil < 10mil) Between Via (10709.724mil,6575mil) from Top Layer to Bottom Layer And Via (10730mil,6575mil) from Top Layer to Bottom Layer 
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (0.201mm < 0.254mm) Between Via (271.526mm,167.005mm) from Top Layer to Bottom Layer And Via (272.027mm,167.005mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.215mm < 0.254mm) Between Via (272.027mm,167.005mm) from Top Layer to Bottom Layer And Via (272.542mm,167.005mm) from Top Layer to Bottom Layer 
 Rule Violations :2
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER1-0(1015mil,6550mil) on Top Layer And Pad U1_STEPPER1-1(912.638mil,6625mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER1-0(1015mil,6550mil) on Top Layer And Pad U1_STEPPER1-2(912.638mil,6575mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER1-0(1015mil,6550mil) on Top Layer And Pad U1_STEPPER1-3(912.638mil,6525mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER1-0(1015mil,6550mil) on Top Layer And Pad U1_STEPPER1-4(912.638mil,6475mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER1-0(1015mil,6550mil) on Top Layer And Pad U1_STEPPER1-5(1117.362mil,6475mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER1-0(1015mil,6550mil) on Top Layer And Pad U1_STEPPER1-6(1117.362mil,6525mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER1-0(1015mil,6550mil) on Top Layer And Pad U1_STEPPER1-7(1117.362mil,6575mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER1-0(1015mil,6550mil) on Top Layer And Pad U1_STEPPER1-8(1117.362mil,6625mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER2-0(2933.472mil,6550mil) on Top Layer And Pad U1_STEPPER2-1(2831.11mil,6625mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER2-0(2933.472mil,6550mil) on Top Layer And Pad U1_STEPPER2-2(2831.11mil,6575mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER2-0(2933.472mil,6550mil) on Top Layer And Pad U1_STEPPER2-3(2831.11mil,6525mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER2-0(2933.472mil,6550mil) on Top Layer And Pad U1_STEPPER2-4(2831.11mil,6475mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER2-0(2933.472mil,6550mil) on Top Layer And Pad U1_STEPPER2-5(3035.835mil,6475mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER2-0(2933.472mil,6550mil) on Top Layer And Pad U1_STEPPER2-6(3035.835mil,6525mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER2-0(2933.472mil,6550mil) on Top Layer And Pad U1_STEPPER2-7(3035.835mil,6575mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER2-0(2933.472mil,6550mil) on Top Layer And Pad U1_STEPPER2-8(3035.835mil,6625mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER3-0(4851.945mil,6550mil) on Top Layer And Pad U1_STEPPER3-1(4749.583mil,6625mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER3-0(4851.945mil,6550mil) on Top Layer And Pad U1_STEPPER3-2(4749.583mil,6575mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER3-0(4851.945mil,6550mil) on Top Layer And Pad U1_STEPPER3-3(4749.583mil,6525mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER3-0(4851.945mil,6550mil) on Top Layer And Pad U1_STEPPER3-4(4749.583mil,6475mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER3-0(4851.945mil,6550mil) on Top Layer And Pad U1_STEPPER3-5(4954.307mil,6475mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER3-0(4851.945mil,6550mil) on Top Layer And Pad U1_STEPPER3-6(4954.307mil,6525mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER3-0(4851.945mil,6550mil) on Top Layer And Pad U1_STEPPER3-7(4954.307mil,6575mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER3-0(4851.945mil,6550mil) on Top Layer And Pad U1_STEPPER3-8(4954.307mil,6625mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER4-0(6770.417mil,6550mil) on Top Layer And Pad U1_STEPPER4-1(6668.055mil,6625mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER4-0(6770.417mil,6550mil) on Top Layer And Pad U1_STEPPER4-2(6668.055mil,6575mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER4-0(6770.417mil,6550mil) on Top Layer And Pad U1_STEPPER4-3(6668.055mil,6525mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER4-0(6770.417mil,6550mil) on Top Layer And Pad U1_STEPPER4-4(6668.055mil,6475mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER4-0(6770.417mil,6550mil) on Top Layer And Pad U1_STEPPER4-5(6872.779mil,6475mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER4-0(6770.417mil,6550mil) on Top Layer And Pad U1_STEPPER4-6(6872.779mil,6525mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER4-0(6770.417mil,6550mil) on Top Layer And Pad U1_STEPPER4-7(6872.779mil,6575mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER4-0(6770.417mil,6550mil) on Top Layer And Pad U1_STEPPER4-8(6872.779mil,6625mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER5-0(8688.89mil,6550mil) on Top Layer And Pad U1_STEPPER5-1(8586.528mil,6625mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER5-0(8688.89mil,6550mil) on Top Layer And Pad U1_STEPPER5-2(8586.528mil,6575mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER5-0(8688.89mil,6550mil) on Top Layer And Pad U1_STEPPER5-3(8586.528mil,6525mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER5-0(8688.89mil,6550mil) on Top Layer And Pad U1_STEPPER5-4(8586.528mil,6475mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER5-0(8688.89mil,6550mil) on Top Layer And Pad U1_STEPPER5-5(8791.252mil,6475mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER5-0(8688.89mil,6550mil) on Top Layer And Pad U1_STEPPER5-6(8791.252mil,6525mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER5-0(8688.89mil,6550mil) on Top Layer And Pad U1_STEPPER5-7(8791.252mil,6575mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER5-0(8688.89mil,6550mil) on Top Layer And Pad U1_STEPPER5-8(8791.252mil,6625mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER6-0(10607.362mil,6550mil) on Top Layer And Pad U1_STEPPER6-1(10505mil,6625mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER6-0(10607.362mil,6550mil) on Top Layer And Pad U1_STEPPER6-2(10505mil,6575mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER6-0(10607.362mil,6550mil) on Top Layer And Pad U1_STEPPER6-3(10505mil,6525mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER6-0(10607.362mil,6550mil) on Top Layer And Pad U1_STEPPER6-4(10505mil,6475mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER6-0(10607.362mil,6550mil) on Top Layer And Pad U1_STEPPER6-5(10709.724mil,6475mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER6-0(10607.362mil,6550mil) on Top Layer And Pad U1_STEPPER6-6(10709.724mil,6525mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER6-0(10607.362mil,6550mil) on Top Layer And Pad U1_STEPPER6-7(10709.724mil,6575mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad U1_STEPPER6-0(10607.362mil,6550mil) on Top Layer And Pad U1_STEPPER6-8(10709.724mil,6625mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER1-0(25.781mm,166.37mm) on Top Layer And Pad U1_STEPPER1-1(23.181mm,168.275mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER1-0(25.781mm,166.37mm) on Top Layer And Pad U1_STEPPER1-2(23.181mm,167.005mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER1-0(25.781mm,166.37mm) on Top Layer And Pad U1_STEPPER1-3(23.181mm,165.735mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER1-0(25.781mm,166.37mm) on Top Layer And Pad U1_STEPPER1-4(23.181mm,164.465mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER1-0(25.781mm,166.37mm) on Top Layer And Pad U1_STEPPER1-5(28.381mm,164.465mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER1-0(25.781mm,166.37mm) on Top Layer And Pad U1_STEPPER1-6(28.381mm,165.735mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER1-0(25.781mm,166.37mm) on Top Layer And Pad U1_STEPPER1-7(28.381mm,167.005mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER1-0(25.781mm,166.37mm) on Top Layer And Pad U1_STEPPER1-8(28.381mm,168.275mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER2-0(74.51mm,166.37mm) on Top Layer And Pad U1_STEPPER2-1(71.91mm,168.275mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER2-0(74.51mm,166.37mm) on Top Layer And Pad U1_STEPPER2-2(71.91mm,167.005mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER2-0(74.51mm,166.37mm) on Top Layer And Pad U1_STEPPER2-3(71.91mm,165.735mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER2-0(74.51mm,166.37mm) on Top Layer And Pad U1_STEPPER2-4(71.91mm,164.465mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER2-0(74.51mm,166.37mm) on Top Layer And Pad U1_STEPPER2-5(77.11mm,164.465mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER2-0(74.51mm,166.37mm) on Top Layer And Pad U1_STEPPER2-6(77.11mm,165.735mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER2-0(74.51mm,166.37mm) on Top Layer And Pad U1_STEPPER2-7(77.11mm,167.005mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER2-0(74.51mm,166.37mm) on Top Layer And Pad U1_STEPPER2-8(77.11mm,168.275mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER3-0(123.239mm,166.37mm) on Top Layer And Pad U1_STEPPER3-1(120.639mm,168.275mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER3-0(123.239mm,166.37mm) on Top Layer And Pad U1_STEPPER3-2(120.639mm,167.005mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER3-0(123.239mm,166.37mm) on Top Layer And Pad U1_STEPPER3-3(120.639mm,165.735mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER3-0(123.239mm,166.37mm) on Top Layer And Pad U1_STEPPER3-4(120.639mm,164.465mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER3-0(123.239mm,166.37mm) on Top Layer And Pad U1_STEPPER3-5(125.839mm,164.465mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER3-0(123.239mm,166.37mm) on Top Layer And Pad U1_STEPPER3-6(125.839mm,165.735mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER3-0(123.239mm,166.37mm) on Top Layer And Pad U1_STEPPER3-7(125.839mm,167.005mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER3-0(123.239mm,166.37mm) on Top Layer And Pad U1_STEPPER3-8(125.839mm,168.275mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER4-0(171.969mm,166.37mm) on Top Layer And Pad U1_STEPPER4-1(169.369mm,168.275mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER4-0(171.969mm,166.37mm) on Top Layer And Pad U1_STEPPER4-2(169.369mm,167.005mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER4-0(171.969mm,166.37mm) on Top Layer And Pad U1_STEPPER4-3(169.369mm,165.735mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER4-0(171.969mm,166.37mm) on Top Layer And Pad U1_STEPPER4-4(169.369mm,164.465mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER4-0(171.969mm,166.37mm) on Top Layer And Pad U1_STEPPER4-5(174.569mm,164.465mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER4-0(171.969mm,166.37mm) on Top Layer And Pad U1_STEPPER4-6(174.569mm,165.735mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER4-0(171.969mm,166.37mm) on Top Layer And Pad U1_STEPPER4-7(174.569mm,167.005mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER4-0(171.969mm,166.37mm) on Top Layer And Pad U1_STEPPER4-8(174.569mm,168.275mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER5-0(220.698mm,166.37mm) on Top Layer And Pad U1_STEPPER5-1(218.098mm,168.275mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER5-0(220.698mm,166.37mm) on Top Layer And Pad U1_STEPPER5-2(218.098mm,167.005mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER5-0(220.698mm,166.37mm) on Top Layer And Pad U1_STEPPER5-3(218.098mm,165.735mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER5-0(220.698mm,166.37mm) on Top Layer And Pad U1_STEPPER5-4(218.098mm,164.465mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER5-0(220.698mm,166.37mm) on Top Layer And Pad U1_STEPPER5-5(223.298mm,164.465mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER5-0(220.698mm,166.37mm) on Top Layer And Pad U1_STEPPER5-6(223.298mm,165.735mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER5-0(220.698mm,166.37mm) on Top Layer And Pad U1_STEPPER5-7(223.298mm,167.005mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER5-0(220.698mm,166.37mm) on Top Layer And Pad U1_STEPPER5-8(223.298mm,168.275mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER6-0(269.427mm,166.37mm) on Top Layer And Pad U1_STEPPER6-1(266.827mm,168.275mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER6-0(269.427mm,166.37mm) on Top Layer And Pad U1_STEPPER6-2(266.827mm,167.005mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER6-0(269.427mm,166.37mm) on Top Layer And Pad U1_STEPPER6-3(266.827mm,165.735mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER6-0(269.427mm,166.37mm) on Top Layer And Pad U1_STEPPER6-4(266.827mm,164.465mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER6-0(269.427mm,166.37mm) on Top Layer And Pad U1_STEPPER6-5(272.027mm,164.465mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER6-0(269.427mm,166.37mm) on Top Layer And Pad U1_STEPPER6-6(272.027mm,165.735mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER6-0(269.427mm,166.37mm) on Top Layer And Pad U1_STEPPER6-7(272.027mm,167.005mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.254mm) Between Pad U1_STEPPER6-0(269.427mm,166.37mm) on Top Layer And Pad U1_STEPPER6-8(272.027mm,168.275mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
 Rule Violations :48
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
 Violations Detected : 106
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
